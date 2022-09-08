@@ -594,7 +594,7 @@
   "dependencies": {
     "@truffle/debug-utils": "1.0.19",
     "@truffle/debugger": "5.0.35",
-    "@truffle/provider": "0.2.1",
+    "@truffle/provider": "0.2.24",
     "abi-decoder": "^2.0.1",
     "acorn": "^6.1.1",
     "acorn-walk": "^6.1.1",
