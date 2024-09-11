@@ -594,7 +594,7 @@
   "dependencies": {
     "@truffle/debug-utils": "1.0.19",
     "@truffle/debugger": "5.0.35",
-    "@truffle/provider": "0.2.1",
+    "@truffle/provider": "0.3.13",
     "abi-decoder": "^2.0.1",
     "acorn": "^6.1.1",
     "acorn-walk": "^6.1.1",
@@ -611,8 +611,8 @@
     "request-promise": "^4.2.4",
     "semver": "^6.0.0",
     "uuid": "^3.3.2",
-    "vscode-azureextensionui": "^0.29.12",
-    "vscode-extension-telemetry": "^0.1.1",
+    "vscode-azureextensionui": "^0.50.0",
+    "vscode-extension-telemetry": "^0.4.5",
     "solidity-parser-antlr": "^0.4.11",
     "snyk": "^1.336.0"
   },
